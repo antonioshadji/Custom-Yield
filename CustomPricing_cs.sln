@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Yield Config Builder", "Custom Yield Config Builder\Custom Yield Config Builder\Custom Yield Config Builder.csproj", "{DCEE157F-6098-4D05-ABE9-E999DD48D66C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutsideYield", "OutsideYield\OutsideYield.vdproj", "{1132761D-BE78-44B1-A621-462F428659BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPricing_cs", "CustomPricing_cs\CustomPricing_cs.csproj", "{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugCustomYield|Any CPU = DebugCustomYield|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.DebugCustomYield|Any CPU.ActiveCfg = DebugCustomYield|Any CPU
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.DebugCustomYield|Any CPU.Build.0 = DebugCustomYield|Any CPU
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEE157F-6098-4D05-ABE9-E999DD48D66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1132761D-BE78-44B1-A621-462F428659BB}.Debug|Any CPU.ActiveCfg = DebugCustomYield
+		{1132761D-BE78-44B1-A621-462F428659BB}.DebugCustomYield|Any CPU.ActiveCfg = DebugCustomYield
+		{1132761D-BE78-44B1-A621-462F428659BB}.DebugCustomYield|Any CPU.Build.0 = DebugCustomYield
+		{1132761D-BE78-44B1-A621-462F428659BB}.Release|Any CPU.ActiveCfg = Release
+		{1132761D-BE78-44B1-A621-462F428659BB}.Release|Any CPU.Build.0 = Release
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.DebugCustomYield|Any CPU.ActiveCfg = DebugCustomYield|Any CPU
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.DebugCustomYield|Any CPU.Build.0 = DebugCustomYield|Any CPU
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A33C75E-21E1-4805-8D23-62BD5AAD64CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
